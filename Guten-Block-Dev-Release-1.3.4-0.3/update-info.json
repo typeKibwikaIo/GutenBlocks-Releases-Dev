@@ -1,0 +1,13 @@
+{
+    "name": "Adaire Blocks",
+    "version": "dev-1.3.4-0.3",
+    "download_url": "https://github.com/typeKibwikaIo/GutenBlocks-Releases-Dev/raw/refs/heads/main/Guten-Block-Dev-Release-1.3.4-0.2/adaire-blocks-pro.zip",
+    "details_url": "https://github.com/typeKibwikaIo/GutenBlocks-Releases-Dev",
+    "requires": "6.0",
+    "tested": "6.9",
+    "requires_php": "7.4",
+    "sections": {
+        "description": "Adaire Blocks Pro",
+        "changelog": "<h4>1.2.3</h4><ul><li>Bug fixes and improvements.</li></ul>"
+    }
+}
